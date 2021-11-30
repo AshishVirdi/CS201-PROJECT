@@ -1,7 +1,7 @@
 //                      CS-201 PROJECT
 //   Compression and decompression of files like .bmp(uncompressed image).
 //    By Huffman encoding and decoding.
-// SUBMISSION BY -> ASHISH VIRDI(2020CSB1077) && AVNISH KUMAR(2020CSB1078)
+// SUBMISSION BY -> ASHISH VIRDI(2020CSB1077)
 
 #include <stdio.h>
 #include <stdlib.h> //used for malloc
